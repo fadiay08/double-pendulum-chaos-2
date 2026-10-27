@@ -1,0 +1,31 @@
+theta1_deg,theta2_deg,write_up_verdict,euler_split_time_s,rk4_split_time_s,lyapunov_per_s,verdict
+30,30,stable,nan,nan,0.0108,regular
+30,60,stable,nan,nan,0.0075,regular
+30,90,stable,24.702,32.668,0.0866,weakly chaotic
+30,105,stable,23.852,19.773,0.1817,chaotic
+30,120,chaotic,10.911,18.066,0.168,chaotic
+45,30,stable,nan,nan,0.0098,regular
+45,60,stable,nan,nan,0.0102,regular
+45,90,stable,47.192,nan,0.013,regular
+45,105,not stated,26.918,nan,0.12,chaotic
+45,120,not stated,18.875,14.181000000000001,0.3155,chaotic
+60,30,stable,31.869,nan,0.0152,regular
+60,45,chaotic,41.719,nan,0.0151,regular
+60,60,stable,nan,nan,0.0129,regular
+60,90,stable,15.969000000000001,21.55,0.264,chaotic
+60,105,chaotic,16.384,30.059,0.45,chaotic
+60,120,chaotic,16.849,24.979,0.5527,chaotic
+75,15,stable,19.736,23.330000000000002,0.1046,chaotic
+75,60,stable,44.677,nan,0.0112,regular
+75,75,stable,32.063,nan,0.0143,regular
+75,90,chaotic,11.746,12.698,0.6368,chaotic
+90,0,chaotic,9.24,15.867,0.2084,chaotic
+90,30,chaotic,10.431000000000001,17.395,0.3756,chaotic
+90,45,chaotic,10.46,11.446,0.5358,chaotic
+90,60,chaotic,14.290000000000001,23.13,0.6359,chaotic
+90,90,chaotic,9.23,10.712,0.9173,chaotic
+120,30,chaotic,3.817,3.743,0.9316,chaotic
+120,45,chaotic,4.473,2.934,1.0335,chaotic
+120,60,chaotic,6.09,5.932,1.0935,chaotic
+120,90,chaotic,10.766,20.624,0.0175,regular
+120,120,chaotic,7.508,5.625,1.4614,chaotic
